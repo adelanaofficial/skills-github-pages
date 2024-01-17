@@ -1,4 +1,7 @@
+<<<<<< main
+=======
 #  Product Designer 👨🏾‍🎨 & Design Contributor
+>>>>>> my-pages
 
 
 ## Welcome to my GitHub Blog. 
